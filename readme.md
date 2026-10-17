@@ -1,6 +1,8 @@
 # Universal Text-to-SQL Analytics Agent
 ### Project Documentation & Architecture Guide
 
+live link : https://universal-sql-agent.vercel.app/connect
+
 **Author:** Smit Ranjan Singh
 **Status:** Deployed (Live) 
 **Stack:** React, FastAPI, Neon (PostgreSQL + pgvector), Groq, FastEmbed
