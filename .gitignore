@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/app.db
+backend/test.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env
+backend/.env
+frontend/.env
+.env
+.history
+
+# Misc
+.DS_Store
+*.log
+.pytest_cache/
